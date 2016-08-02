@@ -1,17 +1,15 @@
-#Table of Contents
-
 #Python Machine Learning
 
 ##Table of Contents
-*Python Machine Learning
-*Credits
+ - Python Machine Learning
+ - Credits
 *Foreword
 *About the Author
 *About the Reviewers
 *www.PacktPub.com
 
 ##Preface
-####What this book covers
+　　####What this book covers
 ####What you need for this book
 ####Who this book is for
 ####Conventions
