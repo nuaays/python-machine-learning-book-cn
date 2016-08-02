@@ -2,32 +2,32 @@
 
 #Python Machine Learning
 
-###Table of Contents
-###Python Machine Learning
-###Credits
-###Foreword
-###About the Author
-###About the Reviewers
-###www.PacktPub.com
+##Table of Contents
+*Python Machine Learning
+*Credits
+*Foreword
+*About the Author
+*About the Reviewers
+*www.PacktPub.com
 
-###Preface
+##Preface
 ####What this book covers
-###What you need for this book
-Who this book is for
-Conventions
-Reader feedback
-Customer support
-1. Giving Computers the Ability to Learn from Data
-Building intelligent machines to transform data into knowledge
-The three different types of machine learning
-Making predictions about the future with supervised learning
-Solving interactive problems with reinforcement learning
-Discovering hidden structures with unsupervised learning
-An introduction to the basic terminology and notations
-A roadmap for building machine learning systems
-Using Python for machine learning
-Summary
-2. Training Machine Learning Algorithms for Classification
+####What you need for this book
+####Who this book is for
+####Conventions
+####Reader feedback
+####Customer support
+##1. Giving Computers the Ability to Learn from Data
+####Building intelligent machines to transform data into knowledge
+####The three different types of machine learning
+#####Making predictions about the future with supervised learning
+#####Solving interactive problems with reinforcement learning
+#####Discovering hidden structures with unsupervised learning
+####An introduction to the basic terminology and notations
+####A roadmap for building machine learning systems
+####Using Python for machine learning
+####Summary
+##2. Training Machine Learning Algorithms for Classification
 Artificial neurons – a brief glimpse into the early history of machine learning
 Implementing a perceptron learning algorithm in Python
 Adaptive linear neurons and the convergence of learning
