@@ -9,7 +9,7 @@
 *www.PacktPub.com
 
 ##Preface
-　　####What this book covers
+####What this book covers
 ####What you need for this book
 ####Who this book is for
 ####Conventions
@@ -26,30 +26,30 @@
 ####Using Python for machine learning
 ####Summary
 ##2. Training Machine Learning Algorithms for Classification
-Artificial neurons – a brief glimpse into the early history of machine learning
-Implementing a perceptron learning algorithm in Python
-Adaptive linear neurons and the convergence of learning
-Minimizing cost functions with gradient descent
-Implementing an Adaptive Linear Neuron in Python
-Large scale machine learning and stochastic gradient descent
-Summary
-3. A Tour of Machine Learning Classifiers Using Scikit-learn
-Choosing a classification algorithm
-First steps with scikit-learn
-Training a perceptron via scikit-learn
-Modeling class probabilities via logistic regression
-Logistic regression intuition and conditional probabilities
-Learning the weights of the logistic cost function
-Training a logistic regression model with scikit-learn
-Tackling overfitting via regularization
-Maximum margin classification with support vector machines
-Solving nonlinear problems using a kernel SVM
-Decision tree learning
-Maximizing information gain – getting the most bang for the buck
-Building a decision tree
-Combining weak to strong learners via random forests
-K-nearest neighbors – a lazy learning algorithm
-Summary
+####Artificial neurons – a brief glimpse into the early history of machine learning
+####Implementing a perceptron learning algorithm in Python
+####Adaptive linear neurons and the convergence of learning
+######Minimizing cost functions with gradient descent
+######Implementing an Adaptive Linear Neuron in Python
+######Large scale machine learning and stochastic gradient descent
+####Summary
+##3. A Tour of Machine Learning Classifiers Using Scikit-learn
+####Choosing a classification algorithm
+####First steps with scikit-learn
+######Training a perceptron via scikit-learn
+####Modeling class probabilities via logistic regression
+######Logistic regression intuition and conditional probabilities
+######Learning the weights of the logistic cost function
+######Training a logistic regression model with scikit-learn
+######Tackling overfitting via regularization
+######Maximum margin classification with support vector machines
+######Solving nonlinear problems using a kernel SVM
+####Decision tree learning
+######Maximizing information gain – getting the most bang for the buck
+######Building a decision tree
+######Combining weak to strong learners via random forests
+####K-nearest neighbors – a lazy learning algorithm
+####Summary
 4. Building Good Training Sets – Data Preprocessing
 Dealing with missing data
 Handling categorical data
