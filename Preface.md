@@ -42,6 +42,9 @@ Chapter 4, Building Good Training Sets – Data Preprocessing, discusses how to 
 
 Chapter 5, Compressing Data via Dimensionality Reduction, describes the essential techniques to reduce the number of features in a dataset to smaller sets while retaining most of their useful and discriminatory information. It discusses the standard approach to dimensionality reduction via principal component analysis and compares it to supervised and nonlinear transformation techniques.
 
+第5章描述了缩减数据集中特性的基础技术，通过将维来压缩数据，以此变为更小的数据集的同时又保留了数据大部分有用和可辨别的信息。
+同时通过主元素分析法讨论了降维的标准途径，并与监督和非线性变换做比较。
+
 Chapter 6, Learning Best Practices for Model Evaluation and Hyperparameter Tuning, discusses the do's and don'ts for estimating the performances of predictive models. Moreover, it discusses different metrics for measuring the performance of our models and techniques to fine-tune machine learning algorithms.
 
 Chapter 7, Combining Different Models for Ensemble Learning, introduces you to the different concepts of combining multiple learning algorithms effectively. It teaches you how to build ensembles of experts to overcome the weaknesses of individual learners, resulting in more accurate and reliable predictions.
