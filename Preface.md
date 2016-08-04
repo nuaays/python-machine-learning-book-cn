@@ -47,7 +47,11 @@ Chapter 5, Compressing Data via Dimensionality Reduction, describes the essentia
 
 Chapter 6, Learning Best Practices for Model Evaluation and Hyperparameter Tuning, discusses the do's and don'ts for estimating the performances of predictive models. Moreover, it discusses different metrics for measuring the performance of our models and techniques to fine-tune machine learning algorithms.
 
+第6章，学习模型估计和超参数调优的最佳实践， 讨论在评估预测模型的性能时什么能做什么不能做。 进一步， 讨论为测量模型性能的不同指标以调优机器学习算法
+
 Chapter 7, Combining Different Models for Ensemble Learning, introduces you to the different concepts of combining multiple learning algorithms effectively. It teaches you how to build ensembles of experts to overcome the weaknesses of individual learners, resulting in more accurate and reliable predictions.
+
+第7章，集成学习需组合不同模型， 介绍有效地组合多种学习算法的不同概念， 如何创建专家集成以克服单独学习者的弱点，以此来产生更精确可依赖的预测
 
 Chapter 8, Applying Machine Learning to Sentiment Analysis, discusses the essential steps to transform textual data into meaningful representations for machine learning algorithms to predict the opinions of people based on their writing.
 
