@@ -54,10 +54,13 @@ Chapter 7, Combining Different Models for Ensemble Learning, introduces you to t
 第7章，集成学习需组合不同模型， 介绍有效地组合多种学习算法的不同概念， 如何创建专家集成以克服单独学习者的弱点，以此来产生更精确可依赖的预测
 
 Chapter 8, Applying Machine Learning to Sentiment Analysis, discusses the essential steps to transform textual data into meaningful representations for machine learning algorithms to predict the opinions of people based on their writing.
+第8章，介绍机器学习在情感分析方面的应用，讨论变换文本数据到对机器学习算法有意义的表述 的基本步骤，基于人们的书写以预测他们的意见
 
 Chapter 9, Embedding a Machine Learning Model into a Web Application, continues with the predictive model from the previous chapter and walks you through the essential steps of developing web applications with embedded machine learning models.
+第9章，集成一个机器学习模型到一个Web应用，继续前一章的预测模型，带你了解开发嵌有机器学习模型的Web应用的基本步骤
 
 Chapter 10, Predicting Continuous Target Variables with Regression Analysis, discusses the essential techniques for modeling linear relationships between target and response variables to make predictions on a continuous scale. After introducing different linear models, it also talks about polynomial regression and tree-based approaches.
+第10章， 使用回归分析来预测连续目标变量，讨论目标与相应变量之间线性关系建模的基本技术。随后介绍了不同的线性模型，同时介绍了多项式回归和基于树的方法。
 
 Chapter 11, Working with Unlabeled Data – Clustering Analysis, shifts the focus to a different subarea of machine learning, unsupervised learning. We apply algorithms from three fundamental families of clustering algorithms to find groups of objects that share a certain degree of similarity.
 
