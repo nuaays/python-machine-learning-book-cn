@@ -66,5 +66,11 @@ Chapter 11, Working with Unlabeled Data – Clustering Analysis, shifts the focu
 第11章， 对未打标签的数据处理 - 聚类分析， 转移机器学习、非监督学习的焦点到一个不同的子集上。 应用从聚类算法的三大基础到寻找拥有特定相似度的对象集合
 
 Chapter 12, Training Artificial Neural Networks for Image Recognition, extends the concept of gradient-based optimization, which we first introduced in Chapter 2, Training Machine Learning Algorithms for Classification, to build powerful, multilayer neural networks based on the popular backpropagation algorithm.
+第12章， 训练人工神经网络用于图像识别， 拓展基于梯度优化的概念， 训练机器学习算法用于分类， 来创建强大的基于反向传播算法的多层神经网络
 
 Chapter 13, Parallelizing Neural Network Training with Theano, builds upon the knowledge from the previous chapter to provide you with a practical guide for training neural networks more efficiently. The focus of this chapter is on Theano, an open source Python library that allows us to utilize multiple cores of modern GPUs.
+第13章，本章专注在Theano，一个能有效利用现代多核GPU的Python开源库，用于并行训练神经网络
+
+
+
+
