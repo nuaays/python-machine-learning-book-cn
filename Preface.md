@@ -63,6 +63,7 @@ Chapter 10, Predicting Continuous Target Variables with Regression Analysis, dis
 第10章， 使用回归分析来预测连续目标变量，讨论目标与相应变量之间线性关系建模的基本技术。随后介绍了不同的线性模型，同时介绍了多项式回归和基于树的方法。
 
 Chapter 11, Working with Unlabeled Data – Clustering Analysis, shifts the focus to a different subarea of machine learning, unsupervised learning. We apply algorithms from three fundamental families of clustering algorithms to find groups of objects that share a certain degree of similarity.
+第11章， 对未打标签的数据处理 - 聚类分析， 转移机器学习、非监督学习的焦点到一个不同的子集上。 应用从聚类算法的三大基础到寻找拥有特定相似度的对象集合
 
 Chapter 12, Training Artificial Neural Networks for Image Recognition, extends the concept of gradient-based optimization, which we first introduced in Chapter 2, Training Machine Learning Algorithms for Classification, to build powerful, multilayer neural networks based on the popular backpropagation algorithm.
 
