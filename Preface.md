@@ -69,7 +69,7 @@ Chapter 12, Training Artificial Neural Networks for Image Recognition, extends t
 第12章， 训练人工神经网络用于图像识别， 拓展基于梯度优化的概念， 训练机器学习算法用于分类， 来创建强大的基于反向传播算法的多层神经网络
 
 Chapter 13, Parallelizing Neural Network Training with Theano, builds upon the knowledge from the previous chapter to provide you with a practical guide for training neural networks more efficiently. The focus of this chapter is on Theano, an open source Python library that allows us to utilize multiple cores of modern GPUs.
-第13章，本章专注在Theano，一个能有效利用现代多核GPU的Python开源库，用于并行训练神经网络
+第13章，本章专注在Theano，一个能有效利用现代多核GPU的Python开源库，用于并行神经网络的训练
 
 
 
