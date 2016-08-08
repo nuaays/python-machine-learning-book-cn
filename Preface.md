@@ -9,10 +9,15 @@ I probably don't need to tell you that machine learning has become one of the mo
 机器学习这个令人兴奋的领域为新的可能打开了大门， 并且它已经成为我们日常生活中的不可或缺
 通过智能手机和语音助手对话、向顾客推荐合适的商品、阻止信用卡诈骗、过滤收件箱中的垃圾邮件、检测和诊断医学疾病等， 这些机器学习应用领域正在继续扩大中
 
-
 If you want to become a machine learning practitioner, a better problem solver, or maybe even consider a career in machine learning research, then this book is for you! However, for a novice, the theoretical concepts behind machine learning can be quite overwhelming. Yet, many practical books that have been published in recent years will help you get started in machine learning by implementing powerful learning algorithms. In my opinion, the use of practical code examples serve an important purpose. They illustrate the concepts by putting the learned material directly into action. However, remember that with great power comes great responsibility! The concepts behind machine learning are too beautiful and important to be hidden in a black box. Thus, my personal mission is to provide you with a different book; a book that discusses the necessary details regarding machine learning concepts, offers intuitive yet informative explanations on how machine learning algorithms work, how to use them, and most importantly, how to avoid the most common pitfalls.
 
+如果你想成为一个机器学习实践者，一个好的问题解决者，或者是想将机器学习研究作为职业，那么这本书适合你。
+无论如何，对于一个新手，机器学习背后的理论概念是相当巨大的。然而，近几年许多已经出版的实用书籍可以通过实施强大的学习算法帮助你起步。在我看来，使用实际的代码实例作为一个重要的目的。他们说明了将学习到的材料直接派上用场的概念。不管怎样，记得能力越大责任越大。机器学习背后的概念是如此美丽和重要， 以至于它就像是藏在黑盒子里。因此，我个人的任务就是提供一本不同的书，一本书可以讨论相关机器学习概念的基础细节，提供对于机器学习算法如何工作、如何使用它们、如何避免最常见易犯的错误 的直观有信息的解释。
+
+
 If you type "machine learning" as a search term in Google Scholar, it returns an overwhelmingly large number-1,800,000 publications. Of course, we cannot discuss all the nitty-gritty details about all the different algorithms and applications that have emerged in the last 60 years. However, in this book, we will embark on an exciting journey that covers all the essential topics and concepts to give you a head start in this field. If you find that your thirst for knowledge is not satisfied, there are many useful resources that can be used to follow up on the essential breakthroughs in this field.
+
+如果你在Google Scholar中搜索“machine learning”， 它将返回一个巨大的数字 1800000个出版物。当然， 我们不会讨论过去60年不同算法和应用 本质的细节。不管怎样，在本书中，我们将着手在所有基本话题和概念，给你一个在此领域的开头和 精彩的旅行。如果你发现你渴望的知识没有被满足，那里有许多有用的资源可以用来跟踪这一领域必要的突破。
 
 If you have already studied machine learning theory in detail, this book will show you how to put your knowledge into practice. If you have used machine learning techniques before and want to gain more insight into how machine learning really works, this book is for you! Don't worry if you are completely new to the machine learning field; you have even more reason to be excited. I promise you that machine learning will change the way you think about the problems you want to solve and will show you how to tackle them by unlocking the power of data.
 
