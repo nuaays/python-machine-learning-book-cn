@@ -92,7 +92,9 @@ The first chapter will provide you with instructions and useful tips to set up y
 本书第一章将提供给你安装Python及核心库的指南和有用建议。我们将添加额外的库到我们的仓库中， 并提供安装指南在相应章节：NLTK库为自然语言处理在第8章，Web框架Flask在第9章，seaborn库为统计数据可视化在第10章，Theano为GPU高效神经网络训练在第10章
 
 
-
-
+Who this book is for
+本书读者
+If you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning—whether you want to start from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.
+如果你想发现如何使用Python开始解决数据的关键问题，学会Python机器学习-无论如何你想从零开始还是想拓展你的知识面，这都是一本基础的不可或缺的资源。
 
 
