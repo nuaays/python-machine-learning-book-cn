@@ -83,5 +83,15 @@ Chapter 13, Parallelizing Neural Network Training with Theano, builds upon the k
 第13章，本章专注在Theano，一个能有效利用现代多核GPU的Python开源库，用于并行神经网络的训练
 
 
+What you need for this book
+
+The execution of the code examples provided in this book requires an installation of Python 3.4.3 or newer on Mac OS X, Linux, or Microsoft Windows. We will make frequent use of Python's essential libraries for scientific computing throughout this book, including SciPy, NumPy, scikit-learn, matplotlib, and pandas.
+
+The first chapter will provide you with instructions and useful tips to set up your Python environment and these core libraries. We will add additional libraries to our repertoire and installation instructions are provided in the respective chapters: the NLTK library for natural language processing (Chapter 8, Applying Machine Learning to Sentiment Analysis), the Flask web framework (Chapter 9, Embedding a Machine Learning Algorithm into a Web Application), the seaborn library for statistical data visualization (Chapter 10, Predicting Continuous Target Variables with Regression Analysis), and Theano for efficient neural network training on graphical processing units (Chapter 13, Parallelizing Neural Network Training with Theano).
+
+
+
+
+
 
 
