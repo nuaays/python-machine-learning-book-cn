@@ -25,7 +25,11 @@ If you have already studied machine learning theory in detail, this book will sh
 
 Before we dive deeper into the machine learning field, let me answer your most important question, "why Python?" The answer is simple: it is powerful yet very accessible. Python has become the most popular programming language for data science because it allows us to forget about the tedious parts of programming and offers us an environment where we can quickly jot down our ideas and put concepts directly into action.
 
+在我们深入机器学习领域之前，让我回答你最重要的问题:"为什么用Python"？ 答案很简单：Python强大且非常容易理解。它已经成为在数据科学领域最流行的编程语言之一，因为它允许我们忘记冗长乏味的编程部分，提供给我们一个环境在其中我们可以很快滴匆匆几下我们的想法并把概念付诸于行动。
+
 Reflecting on my personal journey, I can truly say that the study of machine learning made me a better scientist, thinker, and problem solver. In this book, I want to share this knowledge with you. Knowledge is gained by learning, the key is our enthusiasm, and the true mastery of skills can only be achieved by practice. The road ahead may be bumpy on occasions, and some topics may be more challenging than others, but I hope that you will embrace this opportunity and focus on the reward. Remember that we are on this journey together, and throughout this book, we will add many powerful techniques to your arsenal that will help us solve even the toughest problems the data-driven way.
+
+反思我个人旅程，我能切实地告诉学习机器学习让我成为一个更好的科学家思想家和问题解决者。在这边书中，我想分享这些知识给你。知识可以通过学习获得，关键的是我们的激情，通过练习获得掌握真正的技能。前面的路有时可能是崎岖的，一些主题可能更有挑战性，但是我希望你能拥抱这个机会关注汇报。记住在这个旅途上我们是一起的，贯穿本书，我们将增加许多强大的机器，它们甚至能帮助我们解决最棘手的问题以数据驱动的方式。
 
 
 
