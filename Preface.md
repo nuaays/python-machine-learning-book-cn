@@ -84,11 +84,12 @@ Chapter 13, Parallelizing Neural Network Training with Theano, builds upon the k
 
 
 What you need for this book
-
+学习这本书你需要准备什么
 The execution of the code examples provided in this book requires an installation of Python 3.4.3 or newer on Mac OS X, Linux, or Microsoft Windows. We will make frequent use of Python's essential libraries for scientific computing throughout this book, including SciPy, NumPy, scikit-learn, matplotlib, and pandas.
+本书示例代码在MacOS/Linux/Windows上执行需要安装Python3.4.3 甚至更高的版本。贯穿本书，我们将经常使用Python的基本科学计算库，包括了SciPy, NumPy, scikit-learn, matplotlib和pandas
 
 The first chapter will provide you with instructions and useful tips to set up your Python environment and these core libraries. We will add additional libraries to our repertoire and installation instructions are provided in the respective chapters: the NLTK library for natural language processing (Chapter 8, Applying Machine Learning to Sentiment Analysis), the Flask web framework (Chapter 9, Embedding a Machine Learning Algorithm into a Web Application), the seaborn library for statistical data visualization (Chapter 10, Predicting Continuous Target Variables with Regression Analysis), and Theano for efficient neural network training on graphical processing units (Chapter 13, Parallelizing Neural Network Training with Theano).
-
+本书第一章将提供给你安装Python及核心库的指南和有用建议。我们将添加额外的库到我们的仓库中， 并提供安装指南在相应章节：NLTK库为自然语言处理在第8章，Web框架Flask在第9章，seaborn库为统计数据可视化在第10章，Theano为GPU高效神经网络训练在第10章
 
 
 
