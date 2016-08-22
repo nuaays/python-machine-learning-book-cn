@@ -25,6 +25,7 @@
 ####A roadmap for building machine learning systems
 ####Using Python for machine learning
 ####Summary
+
 ##2. Training Machine Learning Algorithms for Classification
 ####Artificial neurons – a brief glimpse into the early history of machine learning
 ####Implementing a perceptron learning algorithm in Python
@@ -33,6 +34,7 @@
 ######Implementing an Adaptive Linear Neuron in Python
 ######Large scale machine learning and stochastic gradient descent
 ####Summary
+
 ##3. A Tour of Machine Learning Classifiers Using Scikit-learn
 ####Choosing a classification algorithm
 ####First steps with scikit-learn
@@ -50,7 +52,8 @@
 ######Combining weak to strong learners via random forests
 ####K-nearest neighbors – a lazy learning algorithm
 ####Summary
-4. Building Good Training Sets – Data Preprocessing
+
+##4. Building Good Training Sets – Data Preprocessing
 Dealing with missing data
 Handling categorical data
 Partitioning a dataset in training and test sets
@@ -60,7 +63,8 @@ Sparse solutions with L1 regularization
 Sequential feature selection algorithms
 Assessing feature importance with random forests
 Summary
-5. Compressing Data via Dimensionality Reduction
+
+##5. Compressing Data via Dimensionality Reduction
 Unsupervised dimensionality reduction via principal component analysis
 Total and explained variance
 Feature transformation
@@ -76,7 +80,8 @@ Implementing a kernel principal component analysis in Python
 Projecting new data points
 Kernel principal component analysis in scikit-learn
 Summary
-6. Learning Best Practices for Model Evaluation and Hyperparameter Tuning
+
+##6. Learning Best Practices for Model Evaluation and Hyperparameter Tuning
 Streamlining workflows with pipelines
 Using k-fold cross-validation to assess model performance
 The holdout method
@@ -91,14 +96,16 @@ Optimizing the precision and recall of a classification model
 Plotting a receiver operating characteristic
 The scoring metrics for multiclass classification
 Summary
-7. Combining Different Models for Ensemble Learning
+
+##7. Combining Different Models for Ensemble Learning
 Learning with ensembles
 Implementing a simple majority vote classifier
 Evaluating and tuning the ensemble classifier
 Bagging – building an ensemble of classifiers from bootstrap samples
 Leveraging weak learners via adaptive boosting
 Summary
-8. Applying Machine Learning to Sentiment Analysis
+
+##8. Applying Machine Learning to Sentiment Analysis 应用机器学习到情感分析
 Obtaining the IMDb movie review dataset
 Introducing the bag-of-words model
 Transforming words into feature vectors
@@ -108,7 +115,8 @@ Processing documents into tokens
 Training a logistic regression model for document classification
 Working with bigger data – online algorithms and out-of-core learning
 Summary
-9. Embedding a Machine Learning Model into a Web Application
+
+##9. Embedding a Machine Learning Model into a Web Application嵌入机器学习模型到Web应用中
 Serializing fitted scikit-learn estimators
 Setting up a SQLite database for data storage
 Developing a web application with Flask
@@ -117,7 +125,8 @@ Form validation and rendering
 Turning the movie classifier into a web application
 Deploying the web application to a public server
 Summary
-10. Predicting Continuous Target Variables with Regression Analysis
+
+##10. Predicting Continuous Target Variables with Regression Analysis 回归分析预测连续目标变量
 Introducing a simple linear regression model
 Exploring the Housing Dataset
 Implementing an ordinary least squares linear regression model
@@ -132,7 +141,9 @@ Dealing with nonlinear relationships using random forests
 Decision tree regression
 Random forest regression
 Summary
-11. Working with Unlabeled Data – Clustering Analysis
+
+
+##11. Working with Unlabeled Data – Clustering Analysis 聚类分析处理未打标签数据
 Grouping objects by similarity using k-means
 K-means++
 Hard versus soft clustering
@@ -144,7 +155,9 @@ Attaching dendrograms to a heat map
 Applying agglomerative clustering via scikit-learn
 Locating regions of high density via DBSCAN
 Summary
-12. Training Artificial Neural Networks for Image Recognition
+
+
+##12. Training Artificial Neural Networks for Image Recognition 训练神经网络用于图像识别
 Modeling complex functions with artificial neural networks
 Single-layer neural network recap
 Introducing the multi-layer neural network architecture
@@ -159,7 +172,9 @@ Convergence in neural networks
 Other neural network architectures
 A few last words about neural network implementation
 Summary
-13. Parallelizing Neural Network Training with Theano
+
+
+##13. Parallelizing Neural Network Training with Theano 使用Theano并行神经网络训练
 Building, compiling, and running expressions with Theano
 What is Theano?
 First steps with Theano
